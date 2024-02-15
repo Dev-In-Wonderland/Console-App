@@ -1,0 +1,17 @@
+C:\Users\Betacom\source\repos\MenuAnagrafica\ConsoleApp1\obj\Debug\net8.0\MenuAnagrafica.csproj.AssemblyReference.cache
+C:\Users\Betacom\source\repos\MenuAnagrafica\ConsoleApp1\obj\Debug\net8.0\MenuAnagrafica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Betacom\source\repos\MenuAnagrafica\ConsoleApp1\obj\Debug\net8.0\MenuAnagrafica.AssemblyInfoInputs.cache
+C:\Users\Betacom\source\repos\MenuAnagrafica\ConsoleApp1\obj\Debug\net8.0\MenuAnagrafica.AssemblyInfo.cs
+C:\Users\Betacom\source\repos\MenuAnagrafica\ConsoleApp1\obj\Debug\net8.0\MenuAnagrafica.csproj.CoreCompileInputs.cache
+C:\Users\Betacom\source\repos\MenuAnagrafica\ConsoleApp1\bin\Debug\net8.0\MenuAnagrafica.exe
+C:\Users\Betacom\source\repos\MenuAnagrafica\ConsoleApp1\bin\Debug\net8.0\MenuAnagrafica.deps.json
+C:\Users\Betacom\source\repos\MenuAnagrafica\ConsoleApp1\bin\Debug\net8.0\MenuAnagrafica.runtimeconfig.json
+C:\Users\Betacom\source\repos\MenuAnagrafica\ConsoleApp1\bin\Debug\net8.0\MenuAnagrafica.dll
+C:\Users\Betacom\source\repos\MenuAnagrafica\ConsoleApp1\bin\Debug\net8.0\MenuAnagrafica.pdb
+C:\Users\Betacom\source\repos\MenuAnagrafica\ConsoleApp1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Betacom\source\repos\MenuAnagrafica\ConsoleApp1\obj\Debug\net8.0\MenuAnagrafica.csproj.CopyComplete
+C:\Users\Betacom\source\repos\MenuAnagrafica\ConsoleApp1\obj\Debug\net8.0\MenuAnagrafica.dll
+C:\Users\Betacom\source\repos\MenuAnagrafica\ConsoleApp1\obj\Debug\net8.0\refint\MenuAnagrafica.dll
+C:\Users\Betacom\source\repos\MenuAnagrafica\ConsoleApp1\obj\Debug\net8.0\MenuAnagrafica.pdb
+C:\Users\Betacom\source\repos\MenuAnagrafica\ConsoleApp1\obj\Debug\net8.0\MenuAnagrafica.genruntimeconfig.cache
+C:\Users\Betacom\source\repos\MenuAnagrafica\ConsoleApp1\obj\Debug\net8.0\ref\MenuAnagrafica.dll

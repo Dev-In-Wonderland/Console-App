@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OV4JzMbey6xAtI1KW2RbAX+E/Zw1uFYjPhk8TVwMUPWwZvYd3Umdpz+4jQq2RdZNHri2S96E5EqKydfXWdKoDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Betacom\\source\\repos\\MenuAnagrafica\\ConsoleApp1\\MenuAnagrafica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Betacom\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

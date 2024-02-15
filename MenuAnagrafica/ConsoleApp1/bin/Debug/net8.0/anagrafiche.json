@@ -1,0 +1,74 @@
+[
+  {
+    "Nome": "Tarzan",
+    "Cognome": "Scimmia-umana",
+    "Età": 45,
+    "Indirizzo": "Via della giungla 3",
+    "Città": "Città dei gorilla",
+    "Provincia": "Gorilla uniti",
+    "CAP": 55555
+  },
+  {
+    "Nome": "Jimmy ",
+    "Cognome": "figlio di Gandalph",
+    "Età": 61,
+    "Indirizzo": "via del magheggio 30",
+    "Città": "Downtown Abbey",
+    "Provincia": "Londra",
+    "CAP": 20201
+  },
+  {
+    "Nome": "Gianna",
+    "Cognome": "La Marinera",
+    "Età": 33,
+    "Indirizzo": "Via del Porto 90",
+    "Città": "Civitanova Marche",
+    "Provincia": "Macerata",
+    "CAP": 62020
+  },
+  {
+    "Nome": "Gianni",
+    "Cognome": "MieiRatti",
+    "Età": 81,
+    "Indirizzo": "Via del marinero 99",
+    "Città": "Porto di mare",
+    "Provincia": "Al mare",
+    "CAP": 99999
+  },
+  {
+    "Nome": "GGG",
+    "Cognome": "Grande Gigante Gentile",
+    "Età": 555,
+    "Indirizzo": "Via del Cetrionzolo 9999",
+    "Città": "Hobbiton",
+    "Provincia": "HB",
+    "CAP": 34567
+  },
+  {
+    "Nome": "Zigzago",
+    "Cognome": "Salterello",
+    "Età": 45,
+    "Indirizzo": "Via delle buche 3",
+    "Città": "Cittadella a secco",
+    "Provincia": "SE",
+    "CAP": 22222
+  },
+  {
+    "Nome": "Flora",
+    "Cognome": "Petalo-Selvaggio",
+    "Età": 41,
+    "Indirizzo": "Piazza Giardino Segreto 33",
+    "Città": "Serra Fiorita",
+    "Provincia": "SF",
+    "CAP": 34567
+  },
+  {
+    "Nome": "Echo",
+    "Cognome": "Echo",
+    "Età": 120,
+    "Indirizzo": "Corso Sentiero dell'Eco 88",
+    "Città": "Valle delle Cicale",
+    "Provincia": "CC",
+    "CAP": 99999
+  }
+]
